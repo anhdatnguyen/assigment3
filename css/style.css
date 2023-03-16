@@ -37,6 +37,12 @@ ul,li {
     /* padding: 40px; */
     height: max-content;
 }
+
+.card-content:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
 .card-item-title {
     font-weight: bold;
     padding: 10px 0;
